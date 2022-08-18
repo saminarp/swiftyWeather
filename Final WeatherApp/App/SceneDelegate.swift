@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Final WeatherApp
 //
-//  Created by Batuhan Ipci on 2022-08-17.
+//  Created by Samina Rahman Purba on 2022-08-15.
 //
 
 import UIKit
